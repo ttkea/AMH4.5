@@ -22,9 +22,13 @@ AMH4.5新增Mysql,Mariadb选择安装,实现mysql-5.6.2,mysql-5.7.9,mariadb-5.5.
 
 安装方法：
 apt-get install screen (debian)
+
 yum -y install screen (centos)
+
 screen -S amh
+
 wget https://github.com/ttkea/AMH4.5/blob/master/amh.sh && chmod 775 amh.sh && ./amh.sh 2>&1 | tee amh.log
+
 
 
 
