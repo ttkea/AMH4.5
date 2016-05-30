@@ -28,7 +28,9 @@ AMH4.5新增Mysql,Mariadb选择安装,实现mysql-5.6.2,mysql-5.7.9,mariadb-5.5.
 
 ~# screen -S amh
 
-~# wget https://github.com/ttkea/AMH4.5/blob/master/amh.sh && chmod 775 amh.sh && ./amh.sh 2>&1 | tee amh.log
+~# wget http://soft.im/WebPanel/AMH4.5/amh.sh && chmod 775 amh.sh && ./amh.sh 2>&1 | tee amh.log     //原soft.im版
+
+~# wget https://github.com/ttkea/AMH4.5/master/amh.sh && chmod 775 amh.sh && ./amh.sh 2>&1 | tee amh.log   //我的备份
 
 
 
