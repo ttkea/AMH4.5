@@ -1,6 +1,6 @@
 # AMH4.5 基于AMH4.2修改版
 
-转载至：http://soft.im/WebPanel/AMH4.5/  给自己留个备份
+转载自：http://soft.im/WebPanel/AMH4.5/  给自己留个备份
 
 4.5版本是在官方4.2脚本基础上，二次增强开发出来的民间版本；
 AMH4.5新增Mysql,Mariadb选择安装,实现mysql-5.6.2,mysql-5.7.9,mariadb-5.5.47,mariadb-10.1.11版本数据库选择安装
